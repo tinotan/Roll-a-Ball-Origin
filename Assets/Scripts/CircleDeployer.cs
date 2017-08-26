@@ -13,6 +13,12 @@ public class CircleDeployer : MonoBehaviour
         Deploy();
     }
 
+    // Update is called once per frame
+    // void Update()
+    // {
+    //     Deploy();
+    // }
+
     private void Awake()
     {
         Deploy();
